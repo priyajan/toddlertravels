@@ -1,7 +1,7 @@
 ---
 title: Big Island
 subTitle: Beaches and Craters
-cover: dolomites.jpg
+cover: sunset.jpg
 ---
 
 Hawaii is a dream destination. Who would not fall in love with a tropical paradise. And it has sand! Loads and loads of it. 
@@ -28,6 +28,7 @@ Waikiki. Sunset, late into night, during the day this place always has something
 #Maui
 Maui is so peaceful and serene. I found out I was pregnant in Maui, so it is an extra special place for us :) 
 
+![Sunset](./sunset.JPG)
 But that also meant I was car sick and we could not do much of the longer drives. 
 
 Drive up to haleakala for a sunrise view. It is a bit of a drive and we started out at 4 AM. It was also very very cold!
